@@ -3,6 +3,7 @@ package com.talkietalkie
 import android.content.ContentUris
 import android.content.Context
 import android.content.SharedPreferences
+import android.graphics.Bitmap
 import android.graphics.BitmapFactory
 import android.net.Uri
 import android.provider.MediaStore
